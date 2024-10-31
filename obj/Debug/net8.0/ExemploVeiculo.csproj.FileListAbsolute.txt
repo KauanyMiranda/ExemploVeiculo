@@ -1,0 +1,14 @@
+C:\Users\2023202060022\Downloads\ExemploVeiculo\bin\Debug\net8.0\ExemploVeiculo.exe
+C:\Users\2023202060022\Downloads\ExemploVeiculo\bin\Debug\net8.0\ExemploVeiculo.deps.json
+C:\Users\2023202060022\Downloads\ExemploVeiculo\bin\Debug\net8.0\ExemploVeiculo.runtimeconfig.json
+C:\Users\2023202060022\Downloads\ExemploVeiculo\bin\Debug\net8.0\ExemploVeiculo.dll
+C:\Users\2023202060022\Downloads\ExemploVeiculo\bin\Debug\net8.0\ExemploVeiculo.pdb
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.AssemblyInfoInputs.cache
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.AssemblyInfo.cs
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.dll
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\refint\ExemploVeiculo.dll
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.pdb
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ExemploVeiculo.genruntimeconfig.cache
+C:\Users\2023202060022\Downloads\ExemploVeiculo\obj\Debug\net8.0\ref\ExemploVeiculo.dll
