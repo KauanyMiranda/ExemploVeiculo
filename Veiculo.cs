@@ -3,14 +3,27 @@ public class Veiculo
 {
     public string placa;
     public string nMotor;
-    public string niv;
+    private string niv;
     public string renavam;
     public string modelo;
     public string marca;
 
-    public Veiculo(string placa, string nmotor)
+
+    public void SetNiv(string n)
     {
-        this.placa = placa;
-        this.nMotor = nmotor;
+        if (niv.Length == 17)
+        {
+            niv = n;
+        }
+        else
+        {
+            throw new Exception("NIV inválido");
+        }
     }
+
+    public string GetNiv()
+    {
+        return niv;
+    }
+
 }
